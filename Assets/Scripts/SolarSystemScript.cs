@@ -21,7 +21,7 @@ public class SolarSystemScript : MonoBehaviour
     {
         childObject.transform.Rotate(Vector3.left * rotationSpeed * Time.deltaTime);
         childObject.transform.Rotate(0, 0.1f, 0, Space.Self);
-        //moon.transform.Rotate(0, 0.1f, 0, Space.World);
+        
 
     }
 }

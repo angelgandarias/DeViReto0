@@ -949,7 +949,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Time: 120
+  m_Time: 180
   m_PreviewTimeScale: 1
   m_Parameters:
     serializedVersion: 3
@@ -1416,7 +1416,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   parentObject: {fileID: 416769888}
   childObject: {fileID: 968158547}
-  speed: {x: 0, y: 0, z: -0.1025}
+  speed: {x: 0, y: 0, z: -0.1}
 --- !u!4 &968158552 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 428496, guid: 9b81a1e9339b8bb4d90cdb180b6122d2, type: 3}
